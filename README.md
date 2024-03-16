@@ -11,3 +11,15 @@ React만 주 프레임워크로 사용하다가 Svelte라는 프레임워크를 
 5. 현재 코드 개선점 및 최적화
 6. 그럼에도 불구하고 
 
+### [OAuth 2.0](https://drive.google.com/file/d/1bHYufCJhrVOgjk1vfs25EdUv2MHhIBN-/view?usp=drive_link)
+프로젝트에서 구글 로그인과 구글 드라이브를 연동하여 드라이브에 있는 파일들을 공유하는 기능을 구현했고, 이때 OAuth를 사용해 우리 서비스가 구글에 접근할 수 있는 권한을 얻었습니다. 왜, 어떻게 OAuth를 사용하여 다른 서비스에 접근하는 권한을 획득하는지에 소개합니다.
+
+1. 인증/인가 구현 방식
+2. OAuth란?
+3. Google ID(OAuth) 컨셉
+4. 구글 계정을 사용하여 인증하는 방법
+5. OAuth 2.0을 사용하여 Google API에 엑세스하기
+6. OAuth 2.0까지의 History
+7. OAuth Server
+8. OAuth 2.0 승인을 구현하는 방법
+9. 앞으로
